@@ -5,3 +5,5 @@ The **Dark Six** are the more malevolent of the fifteen Sovereigns, and as such 
 Some philosophers and theologians, however, believe that the Six merely represent dangerous forces, not merely evil ones, and that overcoming these dangers is what allows civilization to rise above and culture to flourish. In this view, they represent the challenges the faithful must overcome to grow and mature. Without the Devourer, they say, the faithful would never have built great sailing ships to safely cross the seas.
 
 The Six are also worshiped in more distant lands, usually identified by different names. The drow elves of Menechtarun worship a scorpion-god named Vulkoor, who strongly resembles the Mockery, and the sahuagin worship Shargon, identified with the Devourer.
+
+![[darksix.webp]]
