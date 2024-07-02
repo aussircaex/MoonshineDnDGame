@@ -4,5 +4,5 @@ Humans drove the goblins out of what became the Five Nations, and took many gobl
 
 Goblins also form a large part of the goblinoid societies that have survived independently, discussed under [[Hobgoblins and bugbears]].
 
-*A goblin*
+*A goblin man*
 ![[goblinman.png]]
