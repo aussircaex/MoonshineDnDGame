@@ -46,6 +46,6 @@
 * 894 YK (104 years ago), King Jarot dies, and a war of succession breaks out. The conflict expands and continues for the following 100 years, becoming known as the Last War.
 * 965 YK (33 years ago), House Cannith produces the first warforged and sells them to all sides of the War.
 * 994 YK (4 years ago), the Day of Mourning occurs, destroying the entire nation of Cyre.
-* 996 YK (2 years ago), the Treaty of Thronehold officially ends the Last War. The surviving of the Five Nations of Aundair, Breland, Karrnath, and Thrane recognize a number of independent nations that fought for independence during the war, including Zilargo, the Talenta Plains, Q'Barra, the Eldeen Reaches, Darguun, and Valenar.
+* 996 YK (2 years ago), the Treaty of Thronehold officially ends the Last War. The surviving of the Five Nations of Aundair, Breland, Karrnath, and Thrane recognize a number of sovereign nations that fought for their independence during the war, including Zilargo, the Talenta Plains, Q'Barra, the Eldeen Reaches, Darguun, and Valenar.
 * The treaty also grants the warforged full rights and independence and orders Cannith to destroy their creation forges.
 * 998 YK - present day.
