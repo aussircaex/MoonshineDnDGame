@@ -1,4 +1,4 @@
-Part of a small religion practiced by Harengon tribes in the Eldeen Reaches, the Moon Rabbit is worshipped as a patron of the vulnerable. Many cultures observe the image of a rabbit in the craters of 
+Part of a small religion practiced by Harengon tribes in the Eldeen Reaches, the Moon Rabbit is worshipped as a patron of the vulnerable. Many cultures observe the form of a rabbit in the craters of Zarantyr, the moon that appears largest in the sky.
 
 Long ago, the story goes, a deity was traveling in the Eldeen Reaches, where he ran out of food. Three animals came to his aid. There was the fox, which hunted on his behalf, but came up empty. There was the squirrel, which sought to loosen nuts from the trees, but the god could not eat them. Then there was the rabbit, who threw herself into the campfire so that her body would feed the hungry god. As a reward, the god raised the rabbit to the heavens, granting him lordship of the moons.
 
