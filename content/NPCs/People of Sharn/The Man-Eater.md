@@ -4,6 +4,6 @@ Nine feet tall and a proudly-naturalized citizen of [[15 - Droaam|Droaam]], the 
 
 Gladiatorial combat is a performance, and so the Man-Eater is usually featured in bouts where his ferocity and ability to handle a number of smaller opponents is on display.
 
-As the Moonshine Gang were witness to, he also participates in illegal fights to the death, where he proved superior in combat to the drow elf [[The Purple People Eater|the Purple People Eater]] and slew her.
+As the Moonshine Gang were witness to, he also participates in illegal fights to the death, where he proved superior in combat to the drow elf [[The Purple People Eater (†)|the Purple People Eater]] and slew her.
 
 ![[themaneater.jpg]]
