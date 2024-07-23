@@ -3,13 +3,13 @@ A warforged veteran who showed up to Moonshine for assistance with a lingering h
 *Update:* Sentry was sent to negotiate with Angelus and the Blades, who attacked and wounded him. He made it safely back to Moonshine and is recovering from his injuries.
 
 #### Sidekick Stats
-*(Warrior sidekick, level 4)*
-**Armor Class**: 16 (chain shirt, shield)
-**Hit Points**: 33 (6d8+6)
-**Speed** 30ft.
+*(Warrior sidekick, level 4)*\
+**Armor Class**: 16 (chain shirt, shield)\
+**Hit Points**: 33 (6d8+6)\
+**Speed** 30ft.\
 
-**Str** 17 (+3) **Dex** 12 (+1) **Con** 12 (+2) **Int** 10 (+0) **Wis** 11 (+0) **Cha** 10 (+0)
-**Saving Throws**: Con +3
+**Str** 17 (+3) **Dex** 12 (+1) **Con** 12 (+2) **Int** 10 (+0) **Wis** 11 (+0) **Cha** 10 (+0)\
+**Saving Throws**: Con +3\
 **Skills:** Animal Handling +2, Perception +2
 
 ***Martial Role***: **Attacker.** Sentry gets +2 to all attack rolls (already included below).
