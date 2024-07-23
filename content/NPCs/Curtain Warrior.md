@@ -10,7 +10,6 @@
 **Skills**: Athletics +5, Perception +2
 
 **Resistances**: Fire
-
 ###### **Actions:**
 ***Multiattack***. The Curtain Warrior makes two attacks, one of which can be a ranged attack with a javelin.
 
