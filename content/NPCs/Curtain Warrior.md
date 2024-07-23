@@ -4,10 +4,10 @@
 **Armor Class**: 17 (Splint armor)\
 **Initiative**: +1\
 **Hit Points**: 58\
-**Speed**: 30 ft.\
+**Speed**: 30 ft.
 
 **Str** 17 (+3) **Dex** 13 (+1) **Con** 14 (+2) **Int** 10 (+0) **Wis** 11 (+0) **Cha** 10 (+0)\
-**Skills**: Athletics +5, Perception +2\
+**Skills**: Athletics +5, Perception +2
 
 **Resistances**: Fire
 ###### **Actions:**

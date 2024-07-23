@@ -6,7 +6,7 @@ A warforged veteran who showed up to Moonshine for assistance with a lingering h
 *(Warrior sidekick, level 4)*\
 **Armor Class**: 16 (chain shirt, shield)\
 **Hit Points**: 33 (6d8+6)\
-**Speed** 30ft.\
+**Speed** 30ft.
 
 **Str** 17 (+3) **Dex** 12 (+1) **Con** 12 (+2) **Int** 10 (+0) **Wis** 11 (+0) **Cha** 10 (+0)\
 **Saving Throws**: Con +3\
