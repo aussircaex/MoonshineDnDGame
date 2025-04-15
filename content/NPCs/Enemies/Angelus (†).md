@@ -3,4 +3,6 @@ Much larger than is typical for a warforged, Angelus is a charismatic leader, re
 *Update:* Angelus fled into hiding after the party raided his hideout and defeated the Blades there. The party managed to avoid killing most of them.
 *Update:* Angelus was found aboard the great airship, and the party attacked him there. He jumped from the ship, using a *Feather Token* to escape safely.
 
+*Update:* After Angelus kidnapped the warforged titan Clark by abducting his friend, the party gave chase, catching up to the Blades at a hidden teleportation circle they were attempting to activate. In a climactic battle, the party slew Angelus.
+
 ![[Angelus.jpg]]

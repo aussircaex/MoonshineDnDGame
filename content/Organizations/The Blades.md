@@ -2,4 +2,4 @@ The Blades are a racial-supremacist organization that believes that the oppressi
 
 The Blades are supremacist in their beliefs, and while no place yet exists for the warforged to call a homeland, they are ethno-nationalist, believing that a true warforged nation must be formed *only* for the warforged.
 
-The Blades are said to be led by a messianic figurehead called [[The Lord of Blades|the Lord of Blades]]. In Sharn, their local leader and preacher is [[Angelus]].![[thebladessymbol.webp]]
+The Blades are said to be led by a messianic figurehead called [[The Lord of Blades|the Lord of Blades]]. In Sharn, their local leader and preacher is [[Angelus (†)]].![[thebladessymbol.webp]]
